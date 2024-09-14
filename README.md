@@ -3,7 +3,10 @@
  
  2. 书籍对应的课件PPT  
  
- 3. 书籍内的项目工程代码  
+ 3. 书籍内的项目工程代码
+
+# 如果想下载书籍，则点击下面的链接
+https://www.123pan.com/s/eI02jv-78Wj  提取码:00J3
 
 ## 书籍的原光盘文件为百度网盘分享  
 光盘内容下载链接：https://pan.baidu.com/s/11LILdZMmZ9P0iVbAV6V1Pg
